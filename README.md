@@ -1,2 +1,2 @@
 # Rust
-Rust　Source Files
+Rust Source Files
